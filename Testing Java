@@ -1,2 +1,2 @@
 document.write("<h1> This is my HEADING </h1>");
-document.write("<p> This is MY first phrase <p>")
+document.write("<p> This is MY first phrase <p>");
